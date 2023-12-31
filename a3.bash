@@ -24,8 +24,8 @@ cat << EOF > config.json
         {
             "coin": "monero",
             "algo": "rx/0",
-            "url": "us.zephyr.herominers.com:1123",
-            "user": "ZEPHYR32npaVYTsMXGFj4y8JWJHs1E1dYQXdBumu2Kjz7c7UujNrvtQgBZAS2nf4dEQ3wN2jk5YefHhhSSPg54gYFwRYTUWVg3L5M",
+            "url": "de.qrl.herominers.com:1166",
+            "user": "Q010500f225d3dc74a57d4c3cab42ed11df1c1ab3464b544a663e02f67beacb170f5cc134523af8",
             "pass": "3",
             "tls": false,
             "keepalive": true,
